@@ -1,4 +1,5 @@
 Linia 1 w plik 1
 Linia 2 w plik 1 (rpi)
 Linia 3 w plik 1 (rpi)
+Linia 4
 
