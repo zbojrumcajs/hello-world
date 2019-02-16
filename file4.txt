@@ -2,3 +2,4 @@ czwarty plik rpi
 insert grzegorb
 
 
+insert rpi
